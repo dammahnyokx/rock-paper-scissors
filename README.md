@@ -1,5 +1,5 @@
 # rock-paper-scissors
-ChatGPT said:
+
 Rock, Paper, Scissors is a simple hand game usually played between two people, where each player simultaneously forms one of three shapes with their hand. The possible shapes are:
 
 Rock – a closed fist
